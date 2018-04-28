@@ -1,1 +1,1 @@
-recipes = 
+recipes = { foo: 'bar' };
